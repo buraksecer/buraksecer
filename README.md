@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Aws, Docker and Git Actions**
-- 🌱 I’m currently learning **Golang**
+- 🔭 I’m currently working on **.Net Core, ReactJs, AngularJs, Git Actions**
+- 🌱 I’m currently learning **Golang, Aws, Docker**
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with my coffee :)
 - 📫 How to reach me: Linkedin/buraksecer
