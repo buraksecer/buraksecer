@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Aws,Docker and git actions**
+- 🔭 I’m currently working on **Aws, Docker and Git Actions**
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with my coffee :)
