@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Golang, Docker, .Net Core, ReactJs, AngularJs, Git Actions, Sql, Redis, Wpf**<br>🌱 I’m currently learning **Aws , exactly Linux and Kubernetes :)**<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with my coffee :)<br>📫 How to reach me: Linkedin/buraksecer<br>⚡ Hobbies: Piano, basketball, cooking and travel 
+🔭 I’m currently working on **Golang, Docker, .Net Core, ReactJs, ReactNative, AngularJs, Git Actions, Sql, Redis, Wpf**<br>🌱 I’m currently learning **Aws , exactly Linux and Kubernetes :)**<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with my coffee :)<br>📫 How to reach me: Linkedin/buraksecer<br>⚡ Hobbies: Piano, basketball, cooking and travel 
 
 
 ## 🌐 Socials & Counter:
