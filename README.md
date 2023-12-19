@@ -11,6 +11,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=buraksecer&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=buraksecer&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
