@@ -51,7 +51,7 @@ Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Current
 
 ## 💼 Professional Experience
 
-### 🏢 Papara (2024 - Current)
+### 🏢 Papara (2024 - 2025)
 **Senior Software Engineer**
 - Joined as the first member of a technology-producing team
 - Developed an ATM system from scratch in 6 months! 🏧
