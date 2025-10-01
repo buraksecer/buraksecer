@@ -48,50 +48,6 @@ Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Current
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 💼 Professional Experience
-
-### 🏢 Papara (2024 - 2025)
-**Senior Software Engineer**
-- Joined as the first member of a technology-producing team
-- Developed an ATM system from scratch in 6 months! 🏧
-- Working on next-generation fintech solutions
-- Selected for proactive approach and startup culture background
-
-### 🍕 Delivery Hero & Yemeksepeti (2021 - 2024)
-**Fullstack Developer**
-- Involved in numerous teams and projects for 3 years
-- Participated in Banabi project for the first 1.5 years (now became a marketplace)
-- Rewrote product detail page from scratch for SEO optimization
-- Increased non-brand clicks by 4-5x! 📈
-- Worked on global developments for DH's web project
-- Increased clicks by up to 100x in some countries!
-
-### 💼 Sodyum (2019 - 2021)
-**Fullstack Developer**
-- Created CRM and Sales Tracking projects for major firm selling Vodafone and beIN Sports packages
-- Participated in integration projects with Vodafone and beIN Sports
-- Served as backend team leader for approximately 3 months
-- Optimized CRM systems and sales processes
-
-### 🔧 Alpata (2016 - 2019)
-**Junior Developer**
-- My first professional experience
-- Fully involved in all aspects: analysis, coding, testing, deployment
-- Traveled to nearly 20 cities providing on-site software services
-- Gained field experience and specialized in customer communication
-- Learned every aspect of software development
-
-## 🏆 Notable Projects
-
-### 🔧 Learning Repositories
-- **[golang-101](https://github.com/buraksecer/golang-101)** - Resources for learning Golang
-- **[reactjs-101](https://github.com/buraksecer/reactjs-101)** - ReactJS learning guide
-- **[kubernetes-101](https://github.com/buraksecer/kubernetes-101)** - Kubernetes beginner's guide
-
-### 📦 Open Source Contributions
-- **[go-easy-pubsub](https://github.com/buraksecer/go-easy-pubsub)** - Easy-to-use library for Google Pub/Sub
-- **simple-matchmaking** - Matchmaking algorithm for game development
-
 ## 🎓 Education & Certifications
 
 🎓 **Fırat University** - Software Engineering (2011-2016)
@@ -104,15 +60,6 @@ Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Current
 - 🧪 Unit Testing
 - 🗂️ C# Memory Management
 - ⚛️ React State Management
-
-## 🌟 Fun Facts
-
-- ☕ Coffee/Tea Consumed: **9999999**
-- 🌙 Sleepless Nights: **∞**
-- 📖 Articles Read: **∞**
-- 🏀 I love basketball
-- 🍖 Kebab lover <3
-- 🎮 Game development is my hobby
 
 ## 📈 What I Specialize In
 
