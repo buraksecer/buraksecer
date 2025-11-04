@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Currently working as a **Senior Software Engineer** at **Papara** and developed an ATM system from scratch! 💳
+Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Currently working as a **Senior Software Engineer** at **Migros Mimeda**
 
 - 🔭 I'm currently working on **next-generation ATM** project
 - 🌱 I'm learning **AWS**, **Kubernetes** and **Docker**
