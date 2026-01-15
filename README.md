@@ -8,7 +8,7 @@
 
 Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Currently working as a **Senior Software Engineer** at **Migros Mimeda**
 
-- 🔭 I'm currently working on **next-generation ATM** project
+- 🔭 I'm currently working on **AdTech** projects
 - 🌱 I'm learning **AWS**, **Kubernetes** and **Docker**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **backend development**, **system design** and **DevOps**
@@ -19,7 +19,6 @@ Hello! I'm Burak Seçer, a software engineer with 8 years of experience. Current
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
